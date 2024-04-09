@@ -1,4 +1,5 @@
-# Created by group 34 for APS360 at the University of Toronto!
+# Image Text Recognizer CRNN Machine Learning Model
+
 What you'll find in this repository:
 - Complete source code for our data gathering and cleaning, baseline model (EasyOCR) testing, our model, training code and results, and more!
 - A report the team made upon completion of the project 
