@@ -1,7 +1,7 @@
 # Image Text Recognizer CRNN Machine Learning Model
 
 What you'll find in this repository:
-- Complete source code for our data gathering and cleaning, baseline model (EasyOCR) testing, our model, training code and results, and more!
+- Complete source code for our data gathering and cleaning, baseline model (EasyOCR) testing, our model, training code and results, and more! All via a Jupyter Notebook (individual Python files coming soon).
 - A report the team made upon completion of the project 
 
 Status:
